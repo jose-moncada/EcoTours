@@ -98,3 +98,4 @@ Puedes explicar a los estudiantes la ventaja del esquema flexible de MongoDB: el
 5. Haz clic en el botón de **Refresh** (recargar) en MongoDB Compass. ¡Verás aparecer el documento con tu nombre y detalles al instante!
 "# EcoTours" 
 "# EcoTours" 
+"# EcoTours" 
